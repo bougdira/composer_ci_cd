@@ -1,0 +1,12 @@
+projects:
+- name: DEV_PROJECT
+  description: Dev Project
+  tags: dev
+  apis:
+    - dataflow.googleapis.com
+- name: TEST_PROJECT
+  description: Test Project
+  tags: test
+- name: PROD_PROJECT
+  description: Prod Project
+  tags: prod
